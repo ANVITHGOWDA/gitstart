@@ -1,2 +1,2 @@
 hi man im learning devops in git
-and checking diff now
+and checking diff now..
